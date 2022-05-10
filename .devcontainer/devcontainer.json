@@ -34,7 +34,9 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-python.python",
-		"ms-python.vscode-pylance"
+		"ms-python.vscode-pylance",
+		"ms-vscode.vscode-node-azure-pack",
+		"ms-azuretools.vscode-azurecontainerapps"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
@@ -47,6 +49,7 @@
 	"remoteUser": "vscode",
 	"features": {
 		"azure-cli": "latest",
-		"powershell": "latest"
+		"powershell": "latest",
+		"docker-from-docker": "latest"
 	}
 }

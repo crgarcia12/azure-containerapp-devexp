@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
+    print('User have called the site index!')
     with open('data/products.json') as f:
         data = json.load(f)
 
