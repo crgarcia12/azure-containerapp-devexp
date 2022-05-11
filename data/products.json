@@ -1,6 +1,6 @@
 [
     {
-        "name": "Single red garden gnome for Devs",
+        "name": "Single red garden gnome",
         "price": 56,
         "brand": {
             "name": "Home & Pro tools"
@@ -8,7 +8,7 @@
         "stockUnits": 98
     },
     {
-        "name": "Two red garden gnomes for Devs",
+        "name": "Two red garden gnomes",
         "price": 92,
         "brand": {
             "name": "Home & Pro tools"
