@@ -3,6 +3,9 @@
 
 A Python/Flask dashboard sample for use with GitHub Codespaces.
 
+## The app
+![alt text](page.jpg)
+
 ## Run the application
 
 1. Open this repository in a codespace.
